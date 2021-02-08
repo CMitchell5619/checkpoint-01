@@ -3,17 +3,13 @@
     
 }
 
-@media screen and (min-width: 0px) and (max-width: 550px) {
+@media only screen and (min-width: 569px){
     .card-spill {
-        text-align: center;
+        position: absolute;
+        right: 5px;
     }
 }
 
 .card-spill {
-    position: absolute;
-    right: 5px;
-}
-
-/* @media screen and (min-width: 0px) and (max-width: 500px) {
-    position: relative;
+    text-align: center;
 }
