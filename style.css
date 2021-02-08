@@ -2,3 +2,18 @@
     background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6807df76-8f52-45c3-b59f-cbcb1bc13b35/d7z0xxt-7b5d463b-fa79-4039-9269-622608a6df40.jpg/v1/fill/w_1258,h_635,q_70,strp/the_passing_of_the_elves_royal_procession_by_gwillieth_d7z0xxt-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD02NDciLCJwYXRoIjoiXC9mXC82ODA3ZGY3Ni04ZjUyLTQ1YzMtYjU5Zi1jYmNiMWJjMTNiMzVcL2Q3ejB4eHQtN2I1ZDQ2M2ItZmE3OS00MDM5LTkyNjktNjIyNjA4YTZkZjQwLmpwZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.8o6pu3V00SI7_vWrMIxX-zdBaIlTHeKWK6j3Inot5GE);
     
 }
+
+@media screen and (min-width: 0px) and (max-width: 550px) {
+    .card-spill {
+        text-align: center;
+    }
+}
+
+.card-spill {
+    position: absolute;
+    right: 5px;
+}
+
+/* @media screen and (min-width: 0px) and (max-width: 500px) {
+    position: relative;
+}
